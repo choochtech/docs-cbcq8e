@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://choochtech.github.io/docs-cbcq8e/sitemap.xml
